@@ -15,8 +15,7 @@ This is a simple Kotlin project of a game chooses the largest number from 2 numb
 4. run it on Android Studio
    
 # RESULTS
-![Result]()
+![Result](https://github.com/HaidarSlmn/KotlinProject-by-Haidar/blob/main/Result.png)
 
-   
 # CREDITS
 Haidar [(https://github.com/HaidarSlmn)]
